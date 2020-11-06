@@ -1,5 +1,3 @@
-
-
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
@@ -7,10 +5,6 @@ import java.time.Month;
 import java.time.temporal.ChronoUnit;
 import java.time.temporal.TemporalUnit;
 
-/**
- *
- * @author scala
- */
 public class LocalTimeTeste {
     public static void main(String[] args) {
         LocalTime localTime = LocalTime.now();
